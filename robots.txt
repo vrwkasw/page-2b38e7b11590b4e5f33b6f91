@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.wisdomagro.cn/sitemap.xml
